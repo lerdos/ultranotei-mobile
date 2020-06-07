@@ -1,2 +1,2 @@
-# conceal-mobile
-Conceal Mobile Banking App
+# ultranotei-mobile
+UltraNote Infinity Mobile App
